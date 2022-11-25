@@ -30,7 +30,10 @@ https://www.youtube.com/watch?v=A7qwuFnyIpM
 ## PYTHON API:
 https://www.youtube.com/watch?v=GMppyAPbLYk
 https://www.youtube.com/watch?v=To_1lWbeJHo&list=PLsYGHuNuBZcYtP1KTqyDtahvFBc0SLKQi&index=4
-
+- Light frequency sensor - isl29125
+- Light frequency sensor - TCS3200
+- Light frequency sensor - TCS34725
+- LED Driver - LT3755
 
 ## MULTIMODAL:
 https://www.youtube.com/watch?v=fGwH2YoQkDM
