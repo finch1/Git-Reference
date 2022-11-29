@@ -35,6 +35,7 @@
 - Light frequency sensor - TCS34725
 - LED Driver - LT3755
 - LED Diver - lt3797
+- LED Diver - ltc4162 (API downloaded)
 - VFD Driver - HV5812
 - ADC - ads1118
 - DAC - PCM510xA
