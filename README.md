@@ -34,6 +34,19 @@
 - Light frequency sensor - TCS3200
 - Light frequency sensor - TCS34725
 - LED Driver - LT3755
+- LED Diver - lt3797
+- LED Diver - ltc4162 (API downloaded)
+- VFD Driver - HV5812
+- ADC - ads1118
+- DAC - PCM510xA
+- BMS - bq40z60
+- Single Phase, Multifunction Metering  - ade7953
+- power management - bq51050	
+- DAC - dac8760
+-	humidity sens - hdc1080
+- digital ambient light sens - opt3001
+
+
 
 ## MULTIMODAL:
 https://www.youtube.com/watch?v=fGwH2YoQkDM
