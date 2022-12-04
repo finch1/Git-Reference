@@ -46,6 +46,9 @@
 - DAC - dac8760
 - humidity sens - hdc1080
 - digital ambient light sens - opt3001
+- Watt-hour meter based on the STM32F101 microcontroller AN3322
+- Constant-Current 3-Ampere PWM Dimmable Buck Regulator LED Driver - A6211
+- Digitally Controlled HV Solar MPPT DC-DC Converter - TIDU404
 
 
 
