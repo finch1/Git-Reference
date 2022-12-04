@@ -33,6 +33,7 @@
 - Light frequency sensor - isl29125
 - Light frequency sensor - TCS3200
 - Light frequency sensor - TCS34725
+- Ambient Light Sensor - TL2561
 - LED Driver - LT3755
 - LED Diver - lt3797
 - LED Diver - ltc4162 (API downloaded)
@@ -43,7 +44,7 @@
 - Single Phase, Multifunction Metering  - ade7953
 - power management - bq51050	
 - DAC - dac8760
--	humidity sens - hdc1080
+- humidity sens - hdc1080
 - digital ambient light sens - opt3001
 
 
