@@ -49,6 +49,7 @@
 - Watt-hour meter based on the STM32F101 microcontroller AN3322
 - Constant-Current 3-Ampere PWM Dimmable Buck Regulator LED Driver - A6211
 - Digitally Controlled HV Solar MPPT DC-DC Converter - TIDU404
+- Waterproof Barometric Pressure - ICP-10125 (to measure car manifold pulses)
 
 
 
