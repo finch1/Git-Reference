@@ -33,7 +33,7 @@
 - Light frequency sensor - isl29125
 - Light frequency sensor - TCS3200
 - Light frequency sensor - TCS34725
-- Ambient Light Sensor - TL2561
+- Ambient Light Sensor - TL2561 / TSL2561
 - LED Driver - LT3755
 - LED Diver - lt3797
 - LED Diver - ltc4162 (API downloaded)
@@ -50,6 +50,7 @@
 - Constant-Current 3-Ampere PWM Dimmable Buck Regulator LED Driver - A6211
 - Digitally Controlled HV Solar MPPT DC-DC Converter - TIDU404
 - Waterproof Barometric Pressure - ICP-10125 (to measure car manifold pulses)
+- 
 
 
 
