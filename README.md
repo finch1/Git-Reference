@@ -50,7 +50,7 @@
 - Constant-Current 3-Ampere PWM Dimmable Buck Regulator LED Driver - A6211
 - Digitally Controlled HV Solar MPPT DC-DC Converter - TIDU404
 - Waterproof Barometric Pressure - ICP-10125 (to measure car manifold pulses)
-- 
+- DAC ES9038Q2M + AK4493 + RK097111TD2M + XLH735045.158400X + ADP2301AUJZ-R7 + SABRE9601K + ES9603Q
 
 
 
