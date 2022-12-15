@@ -51,7 +51,12 @@
 - Digitally Controlled HV Solar MPPT DC-DC Converter - TIDU404
 - Waterproof Barometric Pressure - ICP-10125 (to measure car manifold pulses)
 - DAC ES9038Q2M + AK4493 + RK097111TD2M + XLH735045.158400X + ADP2301AUJZ-R7 + SABRE9601K + ES9603Q
-
+- bq79656 Battery monitors & balancers
+- bq79616 Battery monitors & balancers
+- BQ77216 Voltage and temperature protection
+- BQ77905 stackable battery protector
+- BQ34Z100 fuel gauge
+- BQ24650 battery charge controller 
 
 
 ## MULTIMODAL:
