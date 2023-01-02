@@ -8,28 +8,10 @@
 - https://www.youtube.com/watch?v=tRZGeaHPoaw
 - https://www.youtube.com/watch?v=3fUbBnN_H2c
 
-
-## FLASK:
-- https://www.youtube.com/watch?v=QnDWIZuWYW0&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&index=5
-- https://www.youtube.com/watch?v=zQDzNNt6xd4
-- https://www.youtube.com/watch?v=3QiPPX-KeSc
-
-
 ## ARDUINO SERIAL:
 - https://www.youtube.com/watch?v=AHr94RtMj1A
 
-
-## PYTHON OOP:
-- https://www.youtube.com/watch?v=2IW-ZEui4h4
-- https://www.youtube.com/watch?v=t5Bo1Je9EmE
-- https://www.youtube.com/watch?v=CvQ7e6yUtnw
-- https://www.youtube.com/watch?v=A7qwuFnyIpM
-
-
-
-## PYTHON API:
-- https://www.youtube.com/watch?v=GMppyAPbLYk
-- https://www.youtube.com/watch?v=To_1lWbeJHo&list=PLsYGHuNuBZcYtP1KTqyDtahvFBc0SLKQi&index=4
+## DEVICES
 - Light frequency sensor - isl29125
 - Light frequency sensor - TCS3200
 - Light frequency sensor - TCS34725
@@ -44,6 +26,9 @@
 - Single Phase, Multifunction Metering  - ade7953
 - power management - bq51050	
 - DAC - dac8760
+- DAC - AK4493SEQ
+- Audio Volume - NJU72315
+- XMOS XU208-256-TQ64
 - humidity sens - hdc1080
 - digital ambient light sens - opt3001
 - Watt-hour meter based on the STM32F101 microcontroller AN3322
@@ -51,8 +36,8 @@
 - Digitally Controlled HV Solar MPPT DC-DC Converter - TIDU404
 - Waterproof Barometric Pressure - ICP-10125 (to measure car manifold pulses)
 - DAC ES9038Q2M + AK4493 + RK097111TD2M + XLH735045.158400X + ADP2301AUJZ-R7 + SABRE9601K + ES9603Q
-- bq79656 Battery monitors & balancers
-- bq79616 Battery monitors & balancers
+- BQ79656 Battery monitors & balancers
+- BQ79616 Battery monitors & balancers
 - BQ77216 Voltage and temperature protection
 - BQ77905 stackable battery protector
 - BQ34Z100 fuel gauge
