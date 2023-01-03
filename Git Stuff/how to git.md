@@ -113,12 +113,15 @@ After restoring, file in staging is lost. The same commited file (if exists) get
 <div>
     <img src="Fig K.png" style="max-width: 20%;">
 </div>
-
+chec
 # Restoring file to an earlier version
 
 > git restore --source=HEAD~1 file01.txt -> # restores from commit, specifying offset
 
-> git clean -fd -> # removed untracked files permanently
+> git clean -fd -> # removed untracked files permanently        
+
+# Uncommit the last commit
+> git reset --soft HEAD~1
 
 ### Short Status Command
 
@@ -190,5 +193,10 @@ After restoring, file in staging is lost. The same commited file (if exists) get
 
 ## Copy
 
-> cp -r oldFolder newFolder -> # -r = recursive files and folders
+> cp -r oldFolder newFolder -> # -r = recursive files and folders       
+> cp "..\CSharp_Stuff\.gitignore" ".\.gitignore"
+
+# Conflict between remote and local repo
+> git checkout --theirs ".\path" # -> choose which file to keep --ours / --theirs        
+> git commit -m "message"
 
