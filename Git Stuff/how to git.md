@@ -1,15 +1,7 @@
-<style type="text/css">
-.centerImage
-{
- text-align:center;
- display:block;
-}
-</style>
-
 # Git Is Distributed
 Local repos can sync with other repos
 <p>
-    <img src="Fig A.png" alt="Distributed" class="centerImage" style="max-width: 20%;"/>
+    <img src="Fig A.png" alt="Distributed" class="centerImage" style="max-width: 5%;text-align:center;display:block;"/>
 </p>
 
 ## Settings
