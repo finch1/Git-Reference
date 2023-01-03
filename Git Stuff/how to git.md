@@ -1,8 +1,20 @@
+<html>
+  <head>
+    <style>
+      .centerImage {
+        max-width: 15%;
+        text-align:center;
+        display:block;
+      }
+    </style>
+  </head>  
+</html>
+
 # Git Is Distributed
 Local repos can sync with other repos
-<p>
-    <img src="Fig A.png" alt="Distributed" class="centerImage" style="max-width: 5%;text-align:center;display:block;"/>
-</p>
+<div class="centerImage">
+        <img src="Fig A.png" alt="Distributed"/>
+</div>
 
 ## Settings
 - Name
