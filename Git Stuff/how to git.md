@@ -131,9 +131,9 @@ chec
 
 ## Git Diff - Compare changes
 
-> git diff -> # to see what is in the local area before the next staging
-
-> git diff --staged -> # to see what is in the staging area before the next commit
+> git diff -> # to see what is in the local area before the next staging        
+> git diff --staged -> # to see what is in the staging area before the next commit      
+> git diftool HEAD HEAD^ -> # compares local to remote on VSCode
 
 <div>
     <img src="Fig I.png" style="max-width: 20%;">
@@ -200,3 +200,8 @@ chec
 > git checkout --theirs ".\path" # -> choose which file to keep --ours / --theirs        
 > git commit -m "message"
 
+# fatal: refusing to merge unrelated histories
+Here the git command will look something like this: git pull origin master --allow-unrelated-histories.
+You can substitute *origin* with the *remote repository* you are pulling from. You can also replace the *master* branch with *whatever branch* you want the pull request to merge into.
+
+> git pull https://github.com/finch1/Py_Stuff.git main --allow-unrelated-histories
